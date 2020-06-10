@@ -1,5 +1,4 @@
 # NLW-1-Booster
-![Ecoleta](file:///C:/Users/helio/nlw/aulas/ecoleta-capa.png)
 Projeto desenvolvido durante o evento da Rocketseat - Next Level Week #1. Nele foi desenvolvido o Ecoleta, aplicação para Web e Mobile.
 
 # Pontos Restantes/impasses
